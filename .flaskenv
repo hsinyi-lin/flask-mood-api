@@ -1,0 +1,2 @@
+FLASK_APP=mood_app
+FLASK_ENV=development
